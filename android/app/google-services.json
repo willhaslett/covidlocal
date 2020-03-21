@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:154990080538:android:8e7e42a793ff766c63d7a3",
         "android_client_info": {
-          "package_name": "org.will.haslett"
+          "package_name": "org.will.haslett.covidlocal"
         }
       },
       "oauth_client": [
